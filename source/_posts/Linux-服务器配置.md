@@ -4,10 +4,9 @@ toc: true
 date: 2021-02-16 15:16:50
 tags:
 - Linux
-- 服务器
-- 配置
+- 知识碎片
 categories:
-- [Linux,服务器配置]
+- [知识碎片,Linux]
 ---
 
 > 前言:

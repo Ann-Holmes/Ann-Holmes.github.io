@@ -4,10 +4,9 @@ toc: true
 date: 2021-02-03 17:11:38
 tags: 
 - hexo 
-- blog
-- 配置
+- 知识碎片
 categories: 
-- [配置,hexo]
+- [知识碎片,hexo]
 ---
 
 # 准备工作——应该知道的背景

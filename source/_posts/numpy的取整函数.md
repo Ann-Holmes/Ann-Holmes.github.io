@@ -3,11 +3,9 @@ title: numpy的取整函数
 toc: true
 date: 2021-02-09 13:45:35
 tags:
-- Python
 - Numpy
-- 取整函数
 categories:
-- [Python,Numpy]
+- [知识碎片,Numpy]
 ---
 
 > 前言: 

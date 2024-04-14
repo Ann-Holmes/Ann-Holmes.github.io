@@ -4,10 +4,9 @@ toc: true
 date: 2021-02-03 17:11:38
 tags: 
 - LaTeX
-- vscode
-- 配置
+- 知识碎片
 categories: 
-- [软件配置,vscode,LaTeX]
+- [知识碎片,LaTeX]
 ---
 
 ## 准备工作
